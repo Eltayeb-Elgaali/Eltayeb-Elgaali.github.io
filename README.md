@@ -4,7 +4,7 @@
 
 # Eltayeb elgaali
 
-![eltayeb-elgaali](https://user-images.githubusercontent.com/60981643/81560149-1cbe5c80-9391-11ea-9080-15f4b3f69b3d.jpg)
+![eltayeb-elgaali](https://avatars.githubusercontent.com/u/60981643?v=4)
 
 
 #### Personal Information:
