@@ -9,10 +9,9 @@
 
 #### Personal Information:
 
-- Name : ELTAYEB ABD-ELRAHEEM ELTAYEB ELGAALI
+- Name : Eltayeb Elgaali
 - Sex : Male
-- Marital Status : married
-- Nationality : Sudanese 
+
 
 #### Education:
 
